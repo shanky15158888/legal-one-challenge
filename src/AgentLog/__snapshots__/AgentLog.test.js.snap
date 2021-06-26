@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AgentLog component testing 1`] = `
+Array [
+  <header>
+    <h2>
+      Agent Logs
+    </h2>
+  </header>,
+  <a
+    className="goRight"
+    href="/"
+    onClick={[Function]}
+  >
+    Home
+  </a>,
+  <table
+    className="table table-striped"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          Phone number
+        </th>
+        <th
+          scope="col"
+        >
+          Call date and time
+        </th>
+        <th
+          scope="col"
+        >
+          Resolution
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>,
+]
+`;

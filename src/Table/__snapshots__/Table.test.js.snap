@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table component testing 1`] = `
+<table
+  className="table table-striped"
+>
+  <thead>
+    <tr>
+      <th
+        scope="col"
+      >
+        Phone number
+      </th>
+      <th
+        scope="col"
+      >
+        Number of calls
+      </th>
+      <th
+        scope="col"
+      >
+        Last call details
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      scope="col"
+    >
+      <td>
+        +49151484522
+      </td>
+      <td>
+        05/10/2020 20:10:00
+      </td>
+      <td>
+        need reschedule
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

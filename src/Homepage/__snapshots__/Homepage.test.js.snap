@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage component testing 1`] = `
+Array [
+  <header>
+    <h2>
+      Homepage
+    </h2>
+  </header>,
+  <table
+    className="table table-striped"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          Phone number
+        </th>
+        <th
+          scope="col"
+        >
+          Number of calls
+        </th>
+        <th
+          scope="col"
+        >
+          Last call details
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        scope="col"
+      >
+        <td>
+          <a
+            href="/call/+49151484522"
+            onClick={[Function]}
+          >
+            +49151484522
+          </a>
+        </td>
+        <td>
+          13 calls
+        </td>
+        <td>
+          <a
+            href="/agent/356b03dc-9ec5-11e7-97a6-d501104f897e"
+            onClick={[Function]}
+          >
+            Abraham Ellis/20:10
+          </a>
+        </td>
+      </tr>
+      <tr
+        scope="col"
+      >
+        <td>
+          <a
+            href="/call/+49158544147"
+            onClick={[Function]}
+          >
+            +49158544147
+          </a>
+        </td>
+        <td>
+          3 calls
+        </td>
+        <td>
+          <a
+            href="/agent/e512594e-a34c-11e7-a6cb-0609e42722e2"
+            onClick={[Function]}
+          >
+            Joel Wagner/23:11
+          </a>
+        </td>
+      </tr>
+      <tr
+        scope="col"
+      >
+        <td>
+          <a
+            href="/call/+49151783331"
+            onClick={[Function]}
+          >
+            +49151783331
+          </a>
+        </td>
+        <td>
+          3 calls
+        </td>
+        <td>
+          <a
+            href="/agent/6fe55f02-a8f3-11e7-b037-c33c31bca71f"
+            onClick={[Function]}
+          >
+            Madeline Lee/17:01
+          </a>
+        </td>
+      </tr>
+      <tr
+        scope="col"
+      >
+        <td>
+          <a
+            href="/call/+49151514231"
+            onClick={[Function]}
+          >
+            +49151514231
+          </a>
+        </td>
+        <td>
+          3 calls
+        </td>
+        <td>
+          <a
+            href="/agent/6fe55f02-a8f3-11e7-b037-c33c31bca71f"
+            onClick={[Function]}
+          >
+            Madeline Lee/23:02
+          </a>
+        </td>
+      </tr>
+      <tr
+        scope="col"
+      >
+        <td>
+          <a
+            href="/call/+49221514231"
+            onClick={[Function]}
+          >
+            +49221514231
+          </a>
+        </td>
+        <td>
+          6 calls
+        </td>
+        <td>
+          <a
+            href="/agent/6fe55f02-a8f3-11e7-b037-c33c31bca71f"
+            onClick={[Function]}
+          >
+            Madeline Lee/20:09
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>,
+]
+`;
